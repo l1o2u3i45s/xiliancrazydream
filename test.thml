@@ -1,0 +1,14 @@
+<html>
+<head>
+<h1 align="center" size="15%">Xilian的風流韻事<h1>
+</head>
+
+
+<body>
+<input type="button" value="調酒酒譜專區" onclick="cocktail.html">
+
+
+
+
+</body>
+</html>
